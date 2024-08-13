@@ -37,13 +37,13 @@ There's a really interesting (and perhaps obvious) takeaway from this. If you wa
 **Parental support** - or the involvement of parents in your academic endeavours - is an important predictor for the **success of the student**. Unfortunately for students, this feature is beyond their control.
 
 ## 4. After the Covid-19 pandemic, what are we facing?
--> Used the dataset called '**COVID-19 and its impact on students**' to analyze this part.
--> Most of the respondents are from Delhi-NCR
--> Most of them are saying that ratings of online classes are in the range of very poor, and average.
--> We can see increased usage of Laptop/Desktop and Smartphones
--> And an increased involvement of people in social media like YouTube, Instagram and WhatsApp.
--> During this time, there is an increased interaction with family can be seen
--> Health issues during the lockdown, are mainly connected to these features
+- Used the dataset called '**COVID-19 and its impact on students**' to analyze this part.
+-  Most of the respondents are from Delhi-NCR
+-  Most of them are saying that ratings of online classes are in the range of very poor, and average.
+-  We can see increased usage of Laptop/Desktop and Smartphones
+-  And an increased involvement of people in social media like YouTube, Instagram and WhatsApp.
+-  During this time, there is an increased interaction with family can be seen
+-  Health issues during the lockdown, are mainly connected to these features
 ![image](https://github.com/user-attachments/assets/d3d8f888-a96b-4208-9b7d-2a05a43201f7)
 Here, we can see that the contribution of the feature called 'Do you find yourself more connected with your family, close friends, or relatives?' is very little, it is about
 0.023265. Thus, Mental Health issues are not happening because of the connectivity with your Family, friends and all, rather it is more because of the stress busters, Age, etc making a major contribution.
